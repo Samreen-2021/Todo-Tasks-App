@@ -13,6 +13,6 @@
 - VS Code (as Editor)
 - Browser (as runtime environment)
 
-live link: https://github.com/Samreen-2021/Todo-Tasks-App/
+live link: https://samreen-2021.github.io/Todo-Tasks-App/
 
-Repo link:
+Repo link: https://github.com/Samreen-2021/Todo-Tasks-App/
